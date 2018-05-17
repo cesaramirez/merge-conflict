@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+  
+# Development
+- skill: Laravel
+  description: The PHP Framework For Web Artisans
+  
+- skill: Vue.js
+  description: The Progressive JavaScript Framework
